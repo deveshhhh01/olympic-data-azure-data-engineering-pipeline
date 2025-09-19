@@ -1,6 +1,6 @@
-# 🏅 Olympic Data Analytics – End-to-End Azure Data Engineering Project
+🏅 Olympic Data Analytics – End-to-End Azure Data Engineering Project
 
-## 📌 Project Overview
+📌 Project Overview
 This project demonstrates an **end-to-end Data Engineering pipeline** built on **Microsoft Azure** using **Tokyo Olympics datasets**.  
 The goal was to ingest raw data, perform cleaning and transformation, and analyze insights using modern cloud data engineering tools.
 
