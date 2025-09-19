@@ -6,7 +6,7 @@ The goal was to ingest raw data, perform cleaning and transformation, and analyz
 
 ---
 
-## 🛠️ Tech Stack / Azure Services Used
+🛠️ Tech Stack / Azure Services Used
 - **Azure Data Lake Gen2** – Storage for raw & transformed data
 - **Azure Data Factory** – Data ingestion & orchestration
 - **Azure Databricks (Spark)** – Data cleaning, transformation & schema validation
@@ -15,7 +15,7 @@ The goal was to ingest raw data, perform cleaning and transformation, and analyz
 
 ---
 
-## 🔄 Data Pipeline Workflow
+🔄 Data Pipeline Workflow
 1. 📥 Ingested CSV datasets (`Athletes`, `Coaches`, `Teams`, `Entries by Gender`, `Medals`) into **Azure Data Lake (Raw Zone)** using Data Factory.  
 2. ⚙️ Used **Databricks** notebooks (PySpark) to clean, validate, and transform data into the **Transformed Zone**.  
 3. 🗄️ Stored processed data back into **Data Lake Gen2**.  
@@ -24,7 +24,7 @@ The goal was to ingest raw data, perform cleaning and transformation, and analyz
 
 ---
 
-## 📚 Learnings & Outcomes
+📚 Learnings & Outcomes
 - Hands-on with **end-to-end Data Engineering workflows** on Azure.  
 - Built practical **ETL pipelines** with Data Factory & Databricks.  
 - Organized data in **raw vs transformed zones** for scalability.  
